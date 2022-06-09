@@ -1,7 +1,9 @@
 new Vue({
     el: '#app',
     data: {
-        message: 'Benvenuto su Bootstrap per JS!',
+        message: 'Benvenuto sul Bootstrap di JS!',
+        image: 'https://picsum.photos/600/300',
+        imageClass: 'py-4',
     }
 })
 
