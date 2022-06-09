@@ -1,4 +1,9 @@
-
+new Vue({
+    el: '#app',
+    data: {
+        message: 'Benvenuto su Bootstrap per JS!',
+    }
+})
 
 
 
